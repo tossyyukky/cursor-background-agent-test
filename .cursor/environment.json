@@ -1,0 +1,11 @@
+{
+  "name": "Modern TODO App",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "vite-dev",
+      "command": "npm run dev -- --host"
+    }
+  ],
+  "ports": [3000]
+}
